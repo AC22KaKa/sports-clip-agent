@@ -1,0 +1,5 @@
+{"type":"MADE_2PT","start_frame":20,"end_frame":35,"confidence":0.94,"player_id":3}
+{"type":"STEAL","start_frame":80,"end_frame":95,"confidence":0.82,"player_id":8}
+{"type":"MADE_FT","start_frame":105,"end_frame":112,"confidence":0.91,"player_id":3}
+{"type":"BLOCK","start_frame":115,"end_frame":130,"confidence":0.78,"player_id":12}
+{"type":"MISSED_3PT","start_frame":170,"end_frame":185,"confidence":0.88,"player_id":5}
